@@ -1,0 +1,2 @@
+# Book-Recommendation-System
+This repository comprises a Collaborative Filtering-based Python-based Book Recommendation System. The system is designed to provide users with personalised book suggestions based on their previous reading preferences and similarities with other users. The dataset used for training the model is sourced from Goodreads, a popular platform for discovering and discussing books.
